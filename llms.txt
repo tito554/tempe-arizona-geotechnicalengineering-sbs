@@ -1,0 +1,52 @@
+# Geotechnicalengineering — Tempe Arizona
+
+> Geotechnical engineering services in Tempe Arizona, United States.
+
+## Services
+- [Anchors](https://tempe-arizona.geotechnicalengineering.sbs/anchors/)
+- [Atterberg Limits](https://tempe-arizona.geotechnicalengineering.sbs/atterberg-limits/)
+- [Cbr Road](https://tempe-arizona.geotechnicalengineering.sbs/cbr-road/)
+- [Cpt Test](https://tempe-arizona.geotechnicalengineering.sbs/cpt-test/)
+- [Deep Excavations](https://tempe-arizona.geotechnicalengineering.sbs/deep-excavations/)
+- [Excavation Monitoring](https://tempe-arizona.geotechnicalengineering.sbs/excavation-monitoring/)
+- [Excavations](https://tempe-arizona.geotechnicalengineering.sbs/excavations/)
+- [Flexible Pavement](https://tempe-arizona.geotechnicalengineering.sbs/flexible-pavement/)
+- [Footings](https://tempe-arizona.geotechnicalengineering.sbs/footings/)
+- [Foundations](https://tempe-arizona.geotechnicalengineering.sbs/foundations/)
+- [Geophysics](https://tempe-arizona.geotechnicalengineering.sbs/geophysics/)
+- [Grain Size](https://tempe-arizona.geotechnicalengineering.sbs/grain-size/)
+- [Ground Improvement](https://tempe-arizona.geotechnicalengineering.sbs/ground-improvement/)
+- [Grouting](https://tempe-arizona.geotechnicalengineering.sbs/grouting/)
+- [In Situ Permeability](https://tempe-arizona.geotechnicalengineering.sbs/in-situ-permeability/)
+- [Investigation](https://tempe-arizona.geotechnicalengineering.sbs/investigation/)
+- [Lab In Situ](https://tempe-arizona.geotechnicalengineering.sbs/lab-in-situ/)
+- [Laboratory](https://tempe-arizona.geotechnicalengineering.sbs/laboratory/)
+- [Liquefaction](https://tempe-arizona.geotechnicalengineering.sbs/liquefaction/)
+- [Masw](https://tempe-arizona.geotechnicalengineering.sbs/masw/)
+- [Mat Foundations](https://tempe-arizona.geotechnicalengineering.sbs/mat-foundations/)
+- [Piles](https://tempe-arizona.geotechnicalengineering.sbs/piles/)
+- [Plate Load Test](https://tempe-arizona.geotechnicalengineering.sbs/plate-load-test/)
+- [Resistivity](https://tempe-arizona.geotechnicalengineering.sbs/resistivity/)
+- [Retaining Walls](https://tempe-arizona.geotechnicalengineering.sbs/retaining-walls/)
+- [Rigid Pavement](https://tempe-arizona.geotechnicalengineering.sbs/rigid-pavement/)
+- [Road Geotechnics](https://tempe-arizona.geotechnicalengineering.sbs/road-geotechnics/)
+- [Sand Cone Density](https://tempe-arizona.geotechnicalengineering.sbs/sand-cone-density/)
+- [Seismic](https://tempe-arizona.geotechnicalengineering.sbs/seismic/)
+- [Seismic Isolation](https://tempe-arizona.geotechnicalengineering.sbs/seismic-isolation/)
+- [Seismic Microzonation](https://tempe-arizona.geotechnicalengineering.sbs/seismic-microzonation/)
+- [Seismic Refraction](https://tempe-arizona.geotechnicalengineering.sbs/seismic-refraction/)
+- [Slope Stability](https://tempe-arizona.geotechnicalengineering.sbs/slope-stability/)
+- [Slopes](https://tempe-arizona.geotechnicalengineering.sbs/slopes/)
+- [Soft Ground Tunnels](https://tempe-arizona.geotechnicalengineering.sbs/soft-ground-tunnels/)
+- [Spt Drilling](https://tempe-arizona.geotechnicalengineering.sbs/spt-drilling/)
+- [Stone Columns](https://tempe-arizona.geotechnicalengineering.sbs/stone-columns/)
+- [Test Pits](https://tempe-arizona.geotechnicalengineering.sbs/test-pits/)
+- [Triaxial](https://tempe-arizona.geotechnicalengineering.sbs/triaxial/)
+- [Vibrocompaction](https://tempe-arizona.geotechnicalengineering.sbs/vibrocompaction/)
+
+## Contact
+- Website: https://tempe-arizona.geotechnicalengineering.sbs/
+
+## About
+This site provides geotechnical engineering services in Tempe Arizona, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
